@@ -1,0 +1,7 @@
+D:\C#\BTlop2-venha\bin\Debug\BTlop2-venha.exe.config
+D:\C#\BTlop2-venha\bin\Debug\BTlop2-venha.exe
+D:\C#\BTlop2-venha\bin\Debug\BTlop2-venha.pdb
+D:\C#\BTlop2-venha\obj\Debug\DoAnhKiet-2280601617.csproj.AssemblyReference.cache
+D:\C#\BTlop2-venha\obj\Debug\DoAnhKiet-2280601617.csproj.CoreCompileInputs.cache
+D:\C#\BTlop2-venha\obj\Debug\BTlop2-venha.exe
+D:\C#\BTlop2-venha\obj\Debug\BTlop2-venha.pdb
